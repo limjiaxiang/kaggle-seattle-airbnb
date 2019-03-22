@@ -1,1 +1,2 @@
-Key problem to tackle: Helping new listings from new hosts improve their booking rates to maximise profit from AirBNB
+Data exploration, data analysis and data modeling for Airbnb Seattle Open Data: 
+https://www.kaggle.com/airbnb/seattle
